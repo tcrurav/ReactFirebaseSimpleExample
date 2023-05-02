@@ -6,9 +6,8 @@ This project is just a project example to learn how to use Firebase with React.
 
 Read the links in the acknowlegements section bellow to get an idea about Firebase.
 
-Download links:
-
-From Github: https://github.com/tcrurav/react-leaflet-example.git
+The final result looks like this, i.e. a simple CRUD without update.
+![Screenshot](/screenshots/screenshot-1.png)
 
 ## Prerequisites
 
